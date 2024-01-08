@@ -11,3 +11,8 @@ SW 흐름도
 기능3
 ![위험3](https://github.com/toptgun/seoulAiot/assets/118237074/39cf07ac-fee2-4480-a05f-28d7c9c20ecc)
 
+시연영상 링크
+
+https://clipchamp.com/watch/aC7RP9RyLOu
+
+https://clipchamp.com/watch/Gr4tzf7Nfp5
