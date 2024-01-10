@@ -99,8 +99,8 @@ try:
                         if time2-time1>5:
                             sss=time.strftime('%c', time.localtime(time.time()))
                             data1= 'car1 knife 인식 위치:{} 시간:{} '.format(position,sss)
-                            account_sid = 'AC830601052a526b757f23cac741e8becb'
-                            auth_token = 'e5a8893d25b9fb7e090ca3164c786ac9'
+                            account_sid = 'your account sid'
+                            auth_token = 'your token'
                             client = Client(account_sid, auth_token)
                             message = client.messages.create(
                             from_='+12563685788',
